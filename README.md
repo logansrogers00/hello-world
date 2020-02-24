@@ -1,2 +1,3 @@
 # hello-world
-repository assignment
+
+Hello, this is my first time using Github.
